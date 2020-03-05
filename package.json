@@ -1,7 +1,7 @@
 {
     "name": "ajv-formats-mobile-uk",
     "version": "0.0.0",
-    "description": "",
+    "description": "Custom UK mobile phone number format for AJV validator",
     "main": "index.js",
     "scripts": {
         "test": "jest"
@@ -51,6 +51,7 @@
         "prettier": "^1.19.1"
     },
     "dependencies": {
+        "google-libphonenumber": "^3.2.7",
         "q-base-config": "github:CriminalInjuriesCompensationAuthority/q-base-config#v0.6.0"
     }
 }
