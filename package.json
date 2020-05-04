@@ -8,6 +8,10 @@
     },
     "author": "CICA",
     "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/CriminalInjuriesCompensationAuthority/ajv-formats-mobile-uk.git"
+    },
     "dependencies": {
         "google-libphonenumber": "^3.2.7"
     },
